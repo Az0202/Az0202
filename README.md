@@ -6,7 +6,7 @@ I am a Computer Science student at the **University of Virginia**, passionate ab
 ### 🎓 Education
 
 - **University of Virginia, Charlottesville, VA**  
-  *Bachelor of Arts | Computer Science* (Expected May 2025)
+  *Bachelor of Arts | Computer Science, Minor in Data Science* (Expected May 2025)
 
 - **Piedmont Virginia Community College, Charlottesville, VA**  
   *Associate of Science | Computer Science* (May 2023)  
