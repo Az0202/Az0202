@@ -44,7 +44,7 @@ I am a Computer Science student at the **University of Virginia**, passionate ab
 ---
 ### 🏢 Experience
 
-#### **Software Developer Intern** | Center for Diabetes Technology, Charlottesville, VA *(July 2024 - Present)*
+#### **Software Developer** | Center for Diabetes Technology, Charlottesville, VA *(July 2024 - Present)*
 - Enhancing **continuous glucose monitoring systems** for the Novo (CGM DTx) diabetes management study.
 - Implementing **database architecture** for the iDiAs app for seamless data integration.
 - Collaborating with software developers, doctors, and PhD students to integrate **clinical insights**.
