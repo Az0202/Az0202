@@ -16,7 +16,7 @@ I am a Computer Science student at the **University of Virginia**, passionate ab
 ---
 ### 💻 Skills
 
-- **Programming:**  
+- 👨🏻‍💻 **Programming:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -29,14 +29,14 @@ I am a Computer Science student at the **University of Virginia**, passionate ab
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
 
-- **Cybersecurity:**  
+- 🔒 **Cybersecurity:**  
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
   ![Nmap](https://img.shields.io/badge/Nmap-004482?style=for-the-badge&logo=nmap&logoColor=white)  
   ![Metasploit](https://img.shields.io/badge/Metasploit-5A5A5A?style=for-the-badge&logo=metasploit&logoColor=white)  
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
   ![Snort](https://img.shields.io/badge/Snort-EA0029?style=for-the-badge&logo=snort&logoColor=white)  
 
-- **Databases:**  
+- ![image](https://github.com/user-attachments/assets/87fbccc2-477e-44b4-8c94-34228a0a1b23) **Databases:**  
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
