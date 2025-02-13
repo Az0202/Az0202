@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Aymen Zouari
+## Hi there! 👋 my name is Aymen Zouari
 
 I am a Computer Science student at the **University of Virginia**, passionate about **machine learning, artificial intelligence, and software development**. I have a strong background in **programming, cybersecurity, and database management**, with hands-on experience in **software engineering and financial technology**.
 
