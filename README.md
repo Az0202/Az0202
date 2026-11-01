@@ -55,7 +55,7 @@ I am a Computer Science student at the **University of Virginia**, pursuing my *
 ### AI-Based Music Genre Adaptation System
 - Used **LSTM and Transformer models** to transform compositions into new genres while maintaining musical coherence
 
-### Secure Password Manager**: 
+### Secure Password Manager: 
 - encrypted credential storage
 
 ##
