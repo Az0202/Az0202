@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I am a Computer Science student at the **University of Virginia**, pursuing my **Master's in Computer Science (Thesis Track)**. I have a strong background in **programming, cybersecurity, and database management**, with hands-on experience in **software engineering and financial technology**. I am fluent in **French, Arabic, and English**.
+I am a Computer Science student at the **University of Virginia**, pursuing my **Master's in Computer Science (Thesis Track)**. I have a strong background in **programming, cybersecurity, and database management**, with hands-on experience in **software engineering and financial technology**.
 
 ## 🛠️ Technical Skills
 
@@ -55,63 +55,10 @@ I am a Computer Science student at the **University of Virginia**, pursuing my *
 ### AI-Based Music Genre Adaptation System
 - Used **LSTM and Transformer models** to transform compositions into new genres while maintaining musical coherence
 
-### Secure Password Manager
-- Developed a password manager with **advanced encryption** for safe credential storage
+### Secure Password Manager**: 
+- encrypted credential storage
 
-### UVA Parking App Prototype
-- Designed an **interactive prototype** to help students and visitors find parking effortlessly
-
-## 📚 Education
-
-### University of Virginia, Charlottesville, VA
-**Master of Science in Computer Science (Thesis Track)**  
-*August 2025 - May 2027*
-
-**Bachelor of Arts | Computer Science, Minor in Data Science**  
-*Expected Graduation: May 2025*
-
-### Piedmont Virginia Community College, Charlottesville, VA
-**Associate of Science | Computer Science**  
-*Graduated: May 2023*  
-- **William and Joyce Jackameil Award for Computer Science**
-- **Summa Cum Laude (3.82 GPA)**
-- **Dean's List [Spring 2022, Fall 2022]**
-- **President's List [Summer 2022]**
-
-### Hedi Soussi Institute, Sfax, Tunisia
-**High School Diploma | Technical Sciences**  
-*Graduated: July 2021*  
-- **Ranked in the Top 8 of class**
-
-## 💼 Professional Experience
-
-### Software Developer
-**Center for Diabetes Technology, Charlottesville, VA**  
-*July 2024 - Present*
-- Enhanced **continuous glucose monitoring systems** for diabetes management
-- Implemented **database architecture** for the iDiAs app
-- Collaborated with cross-functional teams to integrate **clinical insights**
-
-### Intern
-**PwC (PricewaterhouseCoopers), Tunisia, Tunis**  
-*May 2024 - June 2024*
-- Studied **Expected Credit Losses** under IFRS 9 for BSIC Bank
-- Created a **financial data visualization dashboard** for risk analysis
-
-### AutoCAD Drafter & CNC Machine Operator
-**D'square, Sfax, Tunisia**  
-*July 2021 - November 2021*
-- Created AutoCAD floor plans and 3D models for 30+ projects
-- Operated CNC machinery for 100+ custom work orders
-- Collaborated with architects and engineers
-
-## 🎯 Activities & Volunteering
-
-- **Theta Delta Chi (ΘΔΧ)**: Held multiple leadership positions — Risk Management, Social, Publicity, and Merchandise Chair — contributing to chapter safety, engagement, branding, and operations
-- **Soccer**: Former professional player in Tunisia, Championship winner with VfB Marburg Germany
-- **Phi Theta Kappa (PTK)**: Active member, volunteered in campaigns and received recognition for academic achievements
-
-## 📫 Connect With Me
+##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-zouari/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Az0202)
@@ -123,5 +70,3 @@ I am a Computer Science student at the **University of Virginia**, pursuing my *
 ![Visitor Count](https://profile-counter.glitch.me/Az0202/count.svg)
 
 </div>
-
-Thanks for stopping by! 😊
