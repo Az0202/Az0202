@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-Master's student in **Computer Science (Thesis Track)** at the **University of Virginia**. I work on **software development and testing** for health-focused apps, with a background in programming, databases, and cybersecurity. I speak French, Arabic, and English.
+Master's student in **Computer Science (Thesis Track)** at the **University of Virginia**. I work on **software development and testing** for health-focused apps, with a background in programming, databases, and cybersecurity.
 
 ## 🛠️ Technical Skills
 
